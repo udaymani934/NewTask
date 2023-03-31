@@ -1,0 +1,34 @@
+.Nav{
+    text-align: center;
+    background: linear-gradient(90deg, #000000 0%, #CBCBCB 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent; 
+    ;
+}
+.input-box{
+    border-radius: 10px;
+    width: 200px;
+    height: 35px;
+    border: 2px solid black;
+}
+.text-light{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.col-lg-3{
+    /* background-color: red; */
+    /* border: 2px solid black; */
+}
+/* .col-lg-3{
+    width: 1200px;
+} */
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+/* .bg-primary{
+    width: 1250px;
+} */
